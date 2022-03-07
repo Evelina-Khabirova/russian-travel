@@ -1,0 +1,8 @@
+.header__lang-link {
+  color: #FFF;
+  text-decoration: none;
+}
+
+.header__lang-ling:active {
+  text-decoration: underline;
+}
