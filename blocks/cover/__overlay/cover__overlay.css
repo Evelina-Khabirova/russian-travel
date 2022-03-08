@@ -1,0 +1,13 @@
+.cover__overlay {
+  background-color: rgba(42, 44, 47, 0.3);;
+  width: 100%;
+  min-height: 740px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  min-height: 740px;
+  margin: 0;
+  padding: 0;
+  z-index: 0;
+}
