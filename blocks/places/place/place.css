@@ -3,4 +3,16 @@
   display: flex;
   justify-content: center;
   column-gap: 40px;
+  margin: 80px auto 0;
+}
+
+.place:first-child {
+  margin-top: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .place {
+    margin-top: 73px;
+    column-gap: 28px;
+  }
 }

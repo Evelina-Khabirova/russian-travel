@@ -7,3 +7,9 @@
   line-height: 1.2;
   color: #FFF;
 }
+
+@media screen and (max-width: 768px) {
+  .place__paragraph {
+    font-size: 1em;
+  }  
+}
