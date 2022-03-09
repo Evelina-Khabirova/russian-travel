@@ -4,3 +4,10 @@
   margin: 48px 0 0;
   padding: 0;
 }
+
+@media screen and (max-width: 1024px) {
+  .place__image {
+    width: 440px;
+    height: 440px;
+  }  
+}
