@@ -9,3 +9,9 @@
   text-align: center;
   z-index: 2;
 }
+
+@media screen and (max-width: 320px) {
+  .cover__subtitle {
+    font-size: 0.8em;
+  }
+}

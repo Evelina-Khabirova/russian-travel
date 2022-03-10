@@ -8,3 +8,10 @@
   line-height: 1;
   text-align: center;
 }
+
+@media screen and (max-width: 320px) {
+  .lead__subtitle {
+    font-size: 1em;
+    margin-top: 16px;
+  }
+}

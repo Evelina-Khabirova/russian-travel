@@ -27,3 +27,11 @@
     max-height: 640px;
   }  
 }
+
+@media screen and (max-width: 320px) {
+  .cover__background {
+    width: 100%;
+    min-height: 200px;
+    max-height: 480px;
+  }
+}
